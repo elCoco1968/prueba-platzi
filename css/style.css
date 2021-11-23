@@ -43,6 +43,10 @@
 .activo{
     display: block;
 }
+img{
+    width: 40px;
+    height: 40px;
+}
 
 @media (min-width:1024px) {
     .navCel{
